@@ -1,0 +1,17 @@
+p{
+    background: #e7fc8a;
+}
+
+body{
+    background-color: blueviolet;
+
+    background-image: url(emojidrawing.png);
+}
+
+a{
+
+    font-size: 45px;
+    color:#03fc18;
+    text-shadow: 1px 1px 1px white;
+}
+
